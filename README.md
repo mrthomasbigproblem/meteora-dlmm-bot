@@ -2,7 +2,7 @@
 
 # 🚀 Meteora Copy-Trading & Pool Scanner Bot
 
-meteora / meteora dlmm / meteora dlmm bot / meteora dlmm copy trade bot / meteora dlmm trade bot / meteora trade bot / meteora bot
+meteora / meteora dlmm / meteora dlmm bot / meteora dlmm copy trade bot / meteora dlmm trade bot / meteora trade bot / meteora bot / pump.fun bundler / pumpdotfun bundler / bonk.fun bundler / bonkfun bundler / letsbonkfun bundler / letsbonk bundler / bags.fm bundler / bagsfm bundler
 
 _Automated trading assistant for Solana — powered by **Meteora DLMM** & **Jupiter v6**._
 
