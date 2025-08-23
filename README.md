@@ -2,6 +2,8 @@
 
 # 🚀 Meteora Copy-Trading & Pool Scanner Bot
 
+meteora / meteora dlmm / meteora dlmm bot / meteora dlmm copy trade bot / meteora dlmm trade bot / meteora trade bot / meteora bot
+
 _Automated trading assistant for Solana — powered by **Meteora DLMM** & **Jupiter v6**._
 
 ![Solana](https://img.shields.io/badge/Solana-Meteora-purple?logo=solana&logoColor=white)
