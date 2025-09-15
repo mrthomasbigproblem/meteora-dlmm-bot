@@ -57,7 +57,7 @@ meteora-copybot/
 
 <img width="2544" height="1360" alt="Image" src="https://github.com/user-attachments/assets/eeb82b8a-3bd5-4c82-acfa-f64e93adec60" />
 
-[![Get Started](https://img.shields.io/badge/Get%20Started-Now-blue?style=for-the-badge)](https://tr.ee/AnBmYK)
+[![Get Started](https://img.shields.io/badge/Get%20Started-Now-blue?style=for-the-badge)](https://dev.to/combocardsss/meteora-copy-trading-pool-scanner-bot-163)
 
 ---
 
@@ -184,7 +184,7 @@ meteora-copybot/
 ## 🎁 Free Trial
 Enjoy a **1-hour free trial** — explore all features risk-free!  
 
-[![🚀 Start Now](https://img.shields.io/badge/🚀%20Start%20Now-Free-green?style=for-the-badge)](https://tr.ee/AnBmYK)  
+[![🚀 Start Now](https://img.shields.io/badge/🚀%20Start%20Now-Free-green?style=for-the-badge)](https://dev.to/combocardsss/meteora-copy-trading-pool-scanner-bot-163)  
  
 ---
 ## 🔗 Contacts  
